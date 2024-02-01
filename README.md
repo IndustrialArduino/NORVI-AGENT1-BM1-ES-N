@@ -10,3 +10,6 @@ Built-in Button on the front panel
 Digital Inputs
 Analog Inputs with 0-10v
 DIN-Rail mount
+
+Datasheet:   https://drive.google.com/open?id=1gjJS7q0rbYrMXly1e1Ek1GnCHlJxHp8Z&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1eUDW06VQ4kk_m4ejV-eOtIftSgq1TpqZ&usp=drive_fs

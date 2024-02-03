@@ -1,4 +1,4 @@
-#include "Wire. h"
+#include "Wire.h"
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoPixel.h>
 #include <Adafruit_ADS1015.h>
@@ -11,7 +11,7 @@
 
 #define BUTTON_PIN   35    // Digital IO pin connected to the button.  This will be
                           // driven with a pull-up resistor so the switch should
-                          //Pull the pin to the ground momentarily.  On a high -> low
+                          // pull the pin to ground momentarily.  On a high -> low
                           // transition the button press logic will execute.
 
 #define PIXEL_PIN    25    // Digital IO pin connected to the NeoPixels.
